@@ -1,0 +1,38 @@
+body {
+    margin: 0%;
+}
+
+.div_A {
+    background-color: #ff7f00;
+    width: 500px;
+    height: 500px;
+}
+
+.div_B{
+    background-color: #90ee90;
+    width: 50%;
+    height: 50%;
+
+}
+
+.p_C{
+    color: #ffff;
+    background-color: red;
+    font-size: 25px;
+    font-stretch: monospace;
+    font-weight: bold
+
+
+}
+
+.div_D {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(173, 216, 230);
+}
+
+.div_E {
+    width: 75%vw;
+    height: 50%;
+    background-color: rgb(red, 0, 0);
+}
